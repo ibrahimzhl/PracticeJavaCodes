@@ -1,0 +1,22 @@
+package demo;
+
+public class StringArrayDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       //write the smallest number from given array
+       
+       int num[] = {20, 3, 50, 11, 34];
+       for (int i=0;i<5;i++)
+       }
+        System.out.println(num[i]);
+	    }
+	int min=0;
+	for (int i=1;i<5;i++)
+	{
+		if (num[0]>num[i])
+	}
+}
+	 System.out.println(num);
+}
+}
